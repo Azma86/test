@@ -23,6 +23,10 @@ ol li::marker {
     font-size: x-large;
 }
 
+p {
+    font-size: 15px;
+}
+
 ol li ol li::marker {
     font-size: medium;
 }
